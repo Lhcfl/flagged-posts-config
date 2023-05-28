@@ -1,0 +1,10 @@
+plugins:
+  flagged_posts_config_enabled:
+    default: false
+    client: true
+  can_see_flagged_posts_groups:
+    client: true
+    type: group_list
+    list_type: compact
+    default: "14" # @trust_level_4
+    allow_any: false

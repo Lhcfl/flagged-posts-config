@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    flagged_posts_config_enabled: flagged_posts_config_enabled
+    can_see_flagged_posts_groups: Groups except staff that can see hidden posts.
